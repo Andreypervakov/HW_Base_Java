@@ -3,7 +3,7 @@ public class human_Age {
         int year_of_birth = 1991;
         int now_year = 2023;
         int age = now_year - year_of_birth;
-        System.out.println(age);
+         System.out.printf("\"Возраст = %d\"", age);
     }
 }
 
