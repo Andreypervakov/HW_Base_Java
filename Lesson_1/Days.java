@@ -5,7 +5,7 @@ public class Days {
 
         int weeks = days / 7;
 
-        int months = days / 30;
+        int months = days / weeks;
 
         System.out.println("Weeks = " + weeks);
         System.out.println("Months = " + months);
