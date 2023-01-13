@@ -7,12 +7,13 @@ public class DecrementsFirstNum {
         int a = sc.nextInt();
         System.out.println("Enter numeber:");
         int b = sc.nextInt();
-       // sc.close();
+        sc.close();
 
-    if (a > b) {
-        b = b / 2;
-        System.out.println(b);
+    if (Math.abs(a)  > Math.abs(b)) {
+        a = a / 2;
+        System.out.println(a);
     }
+
     if (a == b) {
             System.out.println("a = b");
                     }
