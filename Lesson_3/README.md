@@ -1,1 +1,1 @@
----it is not ended work it just a thoghts
+--- it is not ended work it just a thoghts
